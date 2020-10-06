@@ -34,11 +34,11 @@ public class Spartan extends Person{
         System.out.println("----------" +
                 "\nSolving encapsulation...");
         Sleeper.sleep(4);
-        System.out.println("You cannot increase my hours in Sparta anymore!");
+        System.out.println("You cannot change my hours in Sparta anymore! That's 'private' business...");
 
         System.out.println("----------" +
                 "\nSolving abstraction...");
-        Sleeper.sleep(4);
+        Sleeper.sleep(5);
         System.out.println("I wish I was an actual Spartan, but it's too complex...");
     }
 }
