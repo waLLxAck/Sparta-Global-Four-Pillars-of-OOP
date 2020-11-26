@@ -1,8 +1,6 @@
 # Four pillars of OOP
 
-*Minimum viable product (MVP)*
-
-### This project uses:
+### The project demonstrates:
 
 1. Abstraction
 
